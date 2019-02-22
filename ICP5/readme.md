@@ -13,6 +13,6 @@ Image Dataset includes categories: camera, cellphone and laptop.
 
 ![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP5_Tensorboard_Retrain%20Inception%20Model.PNG)
 
-### Retrain Inception Model
+### ClassificationCNN
 
-![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP5_Tensorboard_Retrain%20Inception%20Model.PNG)
+![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP5_Tensorboard_ClassificationCNN.PNG)
