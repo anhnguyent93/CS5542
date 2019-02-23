@@ -10,3 +10,9 @@ Implement CNN model for the given MNIST data.
 ![Optimizers](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP4_Scalars.PNG)
 
 ![Histograms](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP4_Optimizer.PNG)
+
+### CNN Filter Size 16, 36, 128 on 3 Layers
+
+![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP4_Scalars_CNN%20Filter%20Size%2016%2C%2036%2C%20128%20on%203%20Layers.PNG)
+
+![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP4_Histograms_CNN%20Filter%20Size%2016%2C%2036%2C%20128%20on%203%20Layers.PNG)
