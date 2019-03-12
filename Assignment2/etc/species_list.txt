@@ -1,0 +1,6 @@
+bear
+bird
+cat
+dog
+horse
+monkey
