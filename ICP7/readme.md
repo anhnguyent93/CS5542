@@ -9,7 +9,13 @@ Data =>Based on captions data of your image with caption dataset.
 Data => Large corpus of text such as Wikipedia, Novel, Blog Posts. Contextual Text would be selective topics in Wikipedia
 
 # Results
-
+### Captions data
 ![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP7_result_captions.PNG)
 
 ![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP7_resultEM_captions.PNG)
+
+### Corpus of text
+![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP7_result_text.PNG)
+
+![](https://github.com/anhnguyent93/CS5542/blob/master/images/ICP7_resultEM_text.PNG)
+
