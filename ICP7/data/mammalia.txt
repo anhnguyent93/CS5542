@@ -1,0 +1,130 @@
+The formal definition of Mammalia is simple as far
+as the living mammals are concerned, because of
+the large number of unique characters they possess.
+However, the fossil record makes the situation a
+good deal less clear-cut. The first part of this book
+is about the extraordinarily good fossil record of
+animals that were, to varying degrees, intermediate
+in grade between the modern mammals and the
+last common ancestor between them and their
+living sister group. They are known informally as
+the ‘mammal-like reptiles’, and more formally as
+the non-mammalian Synapsida. By definition, a
+mammal-like reptile possesses some, but not all the
+characters that define living mammals. A semantic
+difficulty arises about defining a mammal because
+a decision has to be taken on which, if any of the
+mammal-like reptiles should be included. The earliest, most primitive ones have very few mammalian characters, just a small temporal fenestra in
+the skull and an enlarged canine tooth in the jaw. In
+contrast, there are later forms that possess almost
+all the modern mammalian skeletal characters,
+lacking only a few of the postcranial skeleton ones
+like a scapula spine, and fine details of the ankle
+structure. If the definition of a mammal is based
+rigorously upon possession of all the characters of
+living mammals, then some fossil forms that are
+extremely mammalian in anatomy, and by inference in their general biology, are excluded. If,
+on the other hand, a mammal is defined as an
+animal that possesses any of the modern mammal
+characters, then some extremely non-mammalian
+forms, primitive, sprawling-limbed, and no doubt
+scaly, ectothermic creatures must be included. If a
+compromise is sought by using certain selected living
+mammal characters as the basis of the definition, then
+it becomes an arbitrary decision as to exactly which
+characters are to be given defining status.
+After rather a lot of fruitless discussion during
+the last half-century about this issue generally, two
+alternative approaches emerged. Developing one of
+Willi Hennig’s (1966) proposals in his original prescription for cladistics, Jefferies (1979) and Ax
+(1987) proposed distinguishing a ‘crown’ group for
+the living members of a taxon from a ‘stem’ group
+for all the more basal fossil forms possessing some
+but not all the characters of the crown group. Rowe
+(1988, 1993) adopted this solution and formally
+defined the taxon Mammalia as those organisms
+possessing, or presumed to have possessed, all the
+characters of living mammals. All those fossil
+groups that possess at least one, but less than all of
+the characters of living mammals can be referred
+to as stem-group Mammalia, a paraphyletic, but
+informally recognisable taxon.
+Developments of both technology and fashion in
+systematics have since overtaken the simple concept of crown versus stem groups based respectively on all, or less than all the defining characters
+(Benton 2000). The ability of computer programs
+such as PAUP to handle vastly more amounts
+of information has led to computer-generated
+cladograms involving large numbers of taxa and
+characters. Even in the maximally parsimonious
+cladogram, many of the characters are inevitably
+homoplasic, occurring independently in different
+groups. Therefore, it is impossible to read from the
+cladogram simple lists of characters that define the
+various contained groups. How much more so is
+this true of phylogenetic trees based on molecular
+sequence data, which can involve computation of
+several thousand nucleotides? The formal creation
+of taxon definitions has therefore shifted from definitions based on lists of characters, to labelling
+nodes in the cladogram: a taxon is defined as the
+clade that includes the common ancestor of subgroups X and Y. The evidence for the existence of
+a clade so defined is that it occurs in the bestsupported cladogram. In this rarified sense,
+Mammalia is the clade that includes the common
+ancestor of monotremes, marsupials, and placentals.
+The shift in fashion that has simultaneously affected
+the naming of groups, whether character- or nodebased, is a reluctance to accept the vagueness of
+paraphyletic stem groups, but as far as reasonable
+to name every monophyletic group in it. Thus
+Rowe (1988, 1993) introduced the formal names
+Mammaliamorpha and Mammaliaformes at two of
+the nodes on the stem lineage below Mammalia, and
+two more above it, Theriomorpha, Theriiformes,
+before the node Theria that represents the common
+ancestor of marsupials and placentals.
+An altogether different perspective on defining
+Mammalia is based on traditional palaeobiological
+practice (e.g. Simpson 1960; Kemp 1982). An arbitrary decision is made about which characters to
+select as defining characters, and therefore which
+particular node on the stem lineage to label
+Mammalia. Characters deemed appropriate are
+those reflecting the evolution of the fundamental
+mammalian biology. The essence of mammalian life
+is to be found in their endothermic temperature
+physiology, greatly enlarged brain, dentition capable of chewing food, highly agile, energetic locomotion, and so on. The organisms that achieved
+this grade of overall organisation are deemed to be
+Mammalia, and consequently those characters that
+they possess are the defining characters of the
+group. In this view, missing an odd few refinements such as, free ear ossicles or the details of the
+ankle joint is insufficient justification for denying
+mammalian status to a fossil that is otherwise mammalian in structure. Around the end of the Triassic
+Period, about 205 Ma, a number of fossils are found
+of very small animals that have the great majority
+of the skeletal characters of modern mammals. The
+brain is enlarged and the postcranial skeleton differs from that of a modern mammal only in a few
+minor details. Their novel feature is the jaw mechanism. The dentition is fully differentiated with
+2 THE ORIGIN AND EVOLUTION OF MAMMALS
+transversely occluding molar teeth that functioned
+in the unique manner of basic living mammals, and
+there is a new jaw hinge between the dentary bone
+of the lower jaw and the squamosal of the skull that
+permitted a much stronger bite. Such animals were
+undoubtedly mammalian in the biological sense
+although not strictly members of the crown-group
+Mammalia. The most primitive of these forms is
+called Sinoconodon, and most palaeobiologists believe
+that they should formally be members of the clade
+designated Mammalia (e.g. Crompton and Sun
+1985; Kielan-Jaworowska et al. 2004). The definition
+of Mammalia thus becomes: synapsids that possess
+a dentary-squamosal jaw articulation and occlusion
+between lower and upper molars with a transverse
+component to the movement. This has exactly the
+same membership as the clade that includes the
+common ancestor of Sinoconodon, living mammals,
+and all its descendants.
+This is the concept of a mammal that is used in
+the chapters that follow, in the belief that conceding
+a degree of subjectivity in the choice of what is a
+mammal is a small price to pay for allowing the
+focus of the work to be on the origin and evolution
+of the quality of ‘mammalness’ just as much as on
+the origin and evolution of the taxon Mammalia.

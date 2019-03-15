@@ -1,130 +1,130 @@
-9,formal definition of Mammalia is simple as far
-0,the living mammals are concerned, because of
-9,large number of unique characters they possess.
-0,the fossil record makes the situation a
-6,deal less clear-cut. The first part of this book
-0,about the extraordinarily good fossil record of
-8,that were, to varying degrees, intermediate
-0,grade between the modern mammals and the
-2,common ancestor between them and their
-1,sister group. They are known informally as
-2,‘mammal-like reptiles’, and more formally as
-1,non-mammalian Synapsida. By definition, a
+0,formal definition of Mammalia is simple as far
+7,the living mammals are concerned, because of
+0,large number of unique characters they possess.
+7,the fossil record makes the situation a
+0,deal less clear-cut. The first part of this book
+7,about the extraordinarily good fossil record of
+0,that were, to varying degrees, intermediate
+7,grade between the modern mammals and the
+0,common ancestor between them and their
+0,sister group. They are known informally as
+0,‘mammal-like reptiles’, and more formally as
+0,non-mammalian Synapsida. By definition, a
 0,reptile possesses some, but not all the
-8,that define living mammals. A semantic
-1,arises about defining a mammal because
-3,decision has to be taken on which, if any of the
-1,reptiles should be included. The earliest, most primitive ones have very few mammalian characters, just a small temporal fenestra in
+0,that define living mammals. A semantic
+0,arises about defining a mammal because
+7,decision has to be taken on which, if any of the
+0,reptiles should be included. The earliest, most primitive ones have very few mammalian characters, just a small temporal fenestra in
 0,skull and an enlarged canine tooth in the jaw. In
-8,there are later forms that possess almost
+0,there are later forms that possess almost
 0,the modern mammalian skeletal characters,
-0,only a few of the postcranial skeleton ones
-0,a scapula spine, and fine details of the ankle
-7,If the definition of a mammal is based
-0,upon possession of all the characters of
-4,mammals, then some fossil forms that are
-1,mammalian in anatomy, and by inference in their general biology, are excluded. If,
-7,the other hand, a mammal is defined as an
-0,that possesses any of the modern mammal
-1,then some extremely non-mammalian
-2,primitive, sprawling-limbed, and no doubt
-1,ectothermic creatures must be included. If a
-1,is sought by using certain selected living
-0,characters as the basis of the definition, then
-1,becomes an arbitrary decision as to exactly which
-1,are to be given defining status.
-1,rather a lot of fruitless discussion during
-1,last half-century about this issue generally, two
-9,approaches emerged. Developing one of
-2,Hennig’s (1966) proposals in his original prescription for cladistics, Jefferies (1979) and Ax
-1,proposed distinguishing a ‘crown’ group for
-9,living members of a taxon from a ‘stem’ group
+4,only a few of the postcranial skeleton ones
+7,a scapula spine, and fine details of the ankle
+5,If the definition of a mammal is based
+7,upon possession of all the characters of
+0,mammals, then some fossil forms that are
+0,mammalian in anatomy, and by inference in their general biology, are excluded. If,
+5,the other hand, a mammal is defined as an
+7,that possesses any of the modern mammal
+0,then some extremely non-mammalian
+0,primitive, sprawling-limbed, and no doubt
+0,ectothermic creatures must be included. If a
+0,is sought by using certain selected living
+7,characters as the basis of the definition, then
+0,becomes an arbitrary decision as to exactly which
+0,are to be given defining status.
+0,rather a lot of fruitless discussion during
+0,last half-century about this issue generally, two
+0,approaches emerged. Developing one of
+1,Hennig’s (1966) proposals in his original prescription for cladistics, Jefferies (1979) and Ax
+0,proposed distinguishing a ‘crown’ group for
+0,living members of a taxon from a ‘stem’ group
 0,all the more basal fossil forms possessing some
-0,not all the characters of the crown group. Rowe
-2,1993) adopted this solution and formally
+2,not all the characters of the crown group. Rowe
+0,1993) adopted this solution and formally
 0,the taxon Mammalia as those organisms
-3,or presumed to have possessed, all the
-9,of living mammals. All those fossil
-8,that possess at least one, but less than all of
-9,characters of living mammals can be referred
-1,as stem-group Mammalia, a paraphyletic, but
-1,recognisable taxon.
-2,of both technology and fashion in
-5,have since overtaken the simple concept of crown versus stem groups based respectively on all, or less than all the defining characters
-6,2000). The ability of computer programs
-1,as PAUP to handle vastly more amounts
-1,information has led to computer-generated
-2,involving large numbers of taxa and
+0,or presumed to have possessed, all the
+0,of living mammals. All those fossil
+0,that possess at least one, but less than all of
+0,characters of living mammals can be referred
+0,as stem-group Mammalia, a paraphyletic, but
+0,recognisable taxon.
+8,of both technology and fashion in
+2,have since overtaken the simple concept of crown versus stem groups based respectively on all, or less than all the defining characters
+0,2000). The ability of computer programs
+0,as PAUP to handle vastly more amounts
+0,information has led to computer-generated
+8,involving large numbers of taxa and
 0,Even in the maximally parsimonious
-0,many of the characters are inevitably
-1,occurring independently in different
+7,many of the characters are inevitably
+0,occurring independently in different
 0,Therefore, it is impossible to read from the
-0,simple lists of characters that define the
-1,contained groups. How much more so is
-9,true of phylogenetic trees based on molecular
-9,data, which can involve computation of
-1,thousand nucleotides? The formal creation
-9,taxon definitions has therefore shifted from definitions based on lists of characters, to labelling
-7,in the cladogram: a taxon is defined as the
-0,that includes the common ancestor of subgroups X and Y. The evidence for the existence of
-7,clade so defined is that it occurs in the bestsupported cladogram. In this rarified sense,
-0,is the clade that includes the common
-2,of monotremes, marsupials, and placentals.
-8,shift in fashion that has simultaneously affected
-7,naming of groups, whether character- or nodebased, is a reluctance to accept the vagueness of
-1,stem groups, but as far as reasonable
-1,name every monophyletic group in it. Thus
+7,simple lists of characters that define the
+0,contained groups. How much more so is
+0,true of phylogenetic trees based on molecular
+0,data, which can involve computation of
+0,thousand nucleotides? The formal creation
+0,taxon definitions has therefore shifted from definitions based on lists of characters, to labelling
+5,in the cladogram: a taxon is defined as the
+7,that includes the common ancestor of subgroups X and Y. The evidence for the existence of
+0,clade so defined is that it occurs in the bestsupported cladogram. In this rarified sense,
+7,is the clade that includes the common
+8,of monotremes, marsupials, and placentals.
+0,shift in fashion that has simultaneously affected
+4,naming of groups, whether character- or nodebased, is a reluctance to accept the vagueness of
+0,stem groups, but as far as reasonable
+0,name every monophyletic group in it. Thus
 0,(1988, 1993) introduced the formal names
-2,and Mammaliaformes at two of
+8,and Mammaliaformes at two of
 0,nodes on the stem lineage below Mammalia, and
-1,more above it, Theriomorpha, Theriiformes,
-0,the node Theria that represents the common
-2,of marsupials and placentals.
-1,altogether different perspective on defining
-1,is based on traditional palaeobiological
-1,(e.g. Simpson 1960; Kemp 1982). An arbitrary decision is made about which characters to
-2,as defining characters, and therefore which
-3,node on the stem lineage to label
-1,Characters deemed appropriate are
-0,reflecting the evolution of the fundamental
-6,biology. The essence of mammalian life
-1,to be found in their endothermic temperature
-2,greatly enlarged brain, dentition capable of chewing food, highly agile, energetic locomotion, and so on. The organisms that achieved
-1,grade of overall organisation are deemed to be
-2,and consequently those characters that
-0,possess are the defining characters of the
-0,In this view, missing an odd few refinements such as, free ear ossicles or the details of the
-1,joint is insufficient justification for denying
-7,status to a fossil that is otherwise mammalian in structure. Around the end of the Triassic
-1,about 205 Ma, a number of fossils are found
-8,very small animals that have the great majority
-6,the skeletal characters of modern mammals. The
-7,is enlarged and the postcranial skeleton differs from that of a modern mammal only in a few
-7,details. Their novel feature is the jaw mechanism. The dentition is fully differentiated with
-1,THE ORIGIN AND EVOLUTION OF MAMMALS
-8,occluding molar teeth that functioned
-9,the unique manner of basic living mammals, and
-7,is a new jaw hinge between the dentary bone
-0,the lower jaw and the squamosal of the skull that
-1,a much stronger bite. Such animals were
+0,more above it, Theriomorpha, Theriiformes,
+7,the node Theria that represents the common
+8,of marsupials and placentals.
+0,altogether different perspective on defining
+0,is based on traditional palaeobiological
+0,(e.g. Simpson 1960; Kemp 1982). An arbitrary decision is made about which characters to
+0,as defining characters, and therefore which
+0,node on the stem lineage to label
+0,Characters deemed appropriate are
+7,reflecting the evolution of the fundamental
+0,biology. The essence of mammalian life
+0,to be found in their endothermic temperature
+8,greatly enlarged brain, dentition capable of chewing food, highly agile, energetic locomotion, and so on. The organisms that achieved
+6,grade of overall organisation are deemed to be
+0,and consequently those characters that
+7,possess are the defining characters of the
+4,In this view, missing an odd few refinements such as, free ear ossicles or the details of the
+0,joint is insufficient justification for denying
+5,status to a fossil that is otherwise mammalian in structure. Around the end of the Triassic
+9,about 205 Ma, a number of fossils are found
+0,very small animals that have the great majority
+7,the skeletal characters of modern mammals. The
+4,is enlarged and the postcranial skeleton differs from that of a modern mammal only in a few
+0,details. Their novel feature is the jaw mechanism. The dentition is fully differentiated with
+0,THE ORIGIN AND EVOLUTION OF MAMMALS
+0,occluding molar teeth that functioned
+7,the unique manner of basic living mammals, and
+0,is a new jaw hinge between the dentary bone
+7,the lower jaw and the squamosal of the skull that
+0,a much stronger bite. Such animals were
 0,mammalian in the biological sense
-0,not strictly members of the crown-group
-6,The most primitive of these forms is
-2,Sinoconodon, and most palaeobiologists believe
-0,they should formally be members of the clade
-2,Mammalia (e.g. Crompton and Sun
-1,Kielan-Jaworowska et al. 2004). The definition
-8,Mammalia thus becomes: synapsids that possess
-2,dentary-squamosal jaw articulation and occlusion
-1,lower and upper molars with a transverse
-3,to the movement. This has exactly the
-0,membership as the clade that includes the
-9,ancestor of Sinoconodon, living mammals,
-1,all its descendants.
-7,is the concept of a mammal that is used in
-8,chapters that follow, in the belief that conceding
-7,degree of subjectivity in the choice of what is a
-7,is a small price to pay for allowing the
-0,of the work to be on the origin and evolution
-0,the quality of ‘mammalness’ just as much as on
-0,origin and evolution of the taxon Mammalia.
+7,not strictly members of the crown-group
+3,The most primitive of these forms is
+0,Sinoconodon, and most palaeobiologists believe
+7,they should formally be members of the clade
+0,Mammalia (e.g. Crompton and Sun
+0,Kielan-Jaworowska et al. 2004). The definition
+0,Mammalia thus becomes: synapsids that possess
+0,dentary-squamosal jaw articulation and occlusion
+0,lower and upper molars with a transverse
+7,to the movement. This has exactly the
+7,membership as the clade that includes the
+0,ancestor of Sinoconodon, living mammals,
+0,all its descendants.
+5,is the concept of a mammal that is used in
+0,chapters that follow, in the belief that conceding
+4,degree of subjectivity in the choice of what is a
+0,is a small price to pay for allowing the
+7,of the work to be on the origin and evolution
+7,the quality of ‘mammalness’ just as much as on
+7,origin and evolution of the taxon Mammalia.

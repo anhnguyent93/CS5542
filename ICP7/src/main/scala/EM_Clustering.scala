@@ -9,7 +9,7 @@ object EM_Clustering {
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
     val sc = new SparkContext(sparkConf)
 
-    val features=sc.textFile("data\\captions_animal.txt")
+    val features=sc.textFile("data\\mammalia.txt")
       .map(f=>{
         val str=f.replaceAll(",","")
         val ff=f.split(" ")
@@ -28,10 +28,10 @@ object EM_Clustering {
 
     val clusters=gmm.predict(tf)
 
-    val out=new PrintStream("data\\resultsEM_captions.csv")
+    val out=new PrintStream("data\\resultsEM_text.csv")
 
     features.zip(clusters).collect().foreach(f=>{
-      System.out.println(f._1.mkString(" ")+","+f._2)
+      out.println(f._1.mkString(" ")+","+f._2)
     })
 
   }
