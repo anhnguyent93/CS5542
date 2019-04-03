@@ -1,0 +1,83 @@
+Cluster 0:
+ bird 242
+ tree 102
+ sky 19
+ house 66
+ water 31
+ little 38
+ park 31
+ lake 18
+ beautiful 14
+ garden 10
+ blue 21
+ near 37
+ red 20
+ window 54
+ flying 16
+
+Cluster 1:
+ horse 72
+ bear 66
+ monkey 39
+ amp 61
+ quot 29
+ tree 102
+ field 18
+ birds 18
+ house 66
+ black 53
+ sitting 39
+ dogs 17
+ pasture 8
+ cats 14
+ little 38
+
+Cluster 2:
+ dog 238
+ house 66
+ bed 40
+ black 53
+ truck 10
+ beach 31
+ shop 12
+ sleeping 23
+ car 17
+ cat 292
+ basket 9
+ man 10
+ window 54
+ chair 15
+ boy 11
+
+Cluster 3:
+ cat 292
+ box 35
+ window 54
+ tree 102
+ bed 40
+ bag 19
+ house 66
+ sitting 39
+ black 53
+ sleeping 23
+ cute 27
+ sink 5
+ looking 15
+ rock 10
+ bowl 7
+Cluster 4:
+ hat 25
+ cat 292
+ terry 1
+ dallas 1
+ reunion 1
+ rowans 1
+ cake 6
+ twat 1
+ fur 1
+ brother 2
+ loves 6
+ teddy 5
+ sleep 5
+ confused 1
+ goose 1
