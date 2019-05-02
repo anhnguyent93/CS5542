@@ -1,0 +1,8 @@
+BLEU corpus: 0.7825
+BLEU sent_average: 0.7825
+
+GLEU corpus: 0.7941
+GLEU sent_average: 0.7941
+
+WER sent_average: 1.0000
+
